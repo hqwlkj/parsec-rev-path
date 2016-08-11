@@ -1,0 +1,38 @@
+{
+  "name": "parsec-rev-path",
+  "version": "1.0.1",
+  "description": "Create a revved file path",
+  "license": "MIT",
+  "repository": "hqwlkj/parsec-rev-path",
+  "author": {
+    "name": "Yang hc",
+    "email": "hqwlkj@outlook.com",
+    "url": "https://github.com/hqwlkj"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "rev",
+    "revving",
+    "web",
+    "file",
+    "name",
+    "filename",
+    "path",
+    "cache",
+    "caching"
+  ],
+  "dependencies": {
+    "modify-filename": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*"
+  }
+}
